@@ -1,0 +1,22 @@
+{
+  "name": "flash-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorozoh/flash-cards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorozoh/flash-cards/issues"
+  },
+  "homepage": "https://github.com/victorozoh/flash-cards#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
